@@ -1,0 +1,7 @@
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\bin\Debug\SolutionUseGenerics.exe.config
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\bin\Debug\SolutionUseGenerics.exe
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\bin\Debug\SolutionUseGenerics.pdb
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\obj\Debug\SolutionUseGenerics.csprojAssemblyReference.cache
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\obj\Debug\SolutionUseGenerics.csproj.CoreCompileInputs.cache
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\obj\Debug\SolutionUseGenerics.exe
+E:\MyProjects\GenericFileProccessor\SolutionUseGenerics\obj\Debug\SolutionUseGenerics.pdb
